@@ -1,4 +1,5 @@
 # Welcome
-This organisation is moving over to https://github.com/ist-group
+Our organisation has moved over to https://github.com/ist-group
+You're welcome there to find our repositories!
 
-Please go there to find our repositories.
+Kind regards, IST Group
